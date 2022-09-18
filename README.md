@@ -13,7 +13,7 @@
 
 _Hi there. I'm Olatomi Smith and I'm a Data Scientist. I have several years of experience in
 sales, but transitioned into Data Science early this year. I'm currently studying towards 
-obtaining my Masters degree, and also working at a digital repository for research data. You can 
+obtaining a Masters degree, and also working at a digital repository for research data. You can 
 find me reading and watching movies when I am not working, or trying to upskill in Data Science._
 
 <!-- 
